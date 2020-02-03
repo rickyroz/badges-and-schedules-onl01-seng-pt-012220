@@ -1,8 +1,6 @@
 
 
 def batch_badge_maker(name)
-  puts "Hello, my name is #{name}."
-end
   return "Hello, my name is #{name}."
 end 
 
