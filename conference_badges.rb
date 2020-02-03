@@ -1,7 +1,7 @@
 
 
 
-def batch_badge_creator(array)
+def batch_badge_maker(array)
   new_array = []
   array.each do |name|
     new_array.push("Hello, my name is #{name}.")
@@ -26,7 +26,7 @@ end
 # assign_rooms(people)
 
 def printer(array)
-  batch_badge_creator(array).each do |id|
+  batch_badge_maker(array).each do |id|
     puts id
   end 
   
