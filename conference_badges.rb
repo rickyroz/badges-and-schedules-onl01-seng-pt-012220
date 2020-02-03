@@ -1,7 +1,7 @@
 
 
 def batch_badge_maker(name)
-  return "Hello, my name is #{name}."
+  return formatted badge
 end 
 
 def batch_badge_creator(array)
