@@ -1,6 +1,7 @@
 
 
-def bat
+def batch_badge_maker(name)
+  puts "Hello, my name is #{name}."
 def batch_badge_creator(array)
   new_array = []
   array.each do |name|
